@@ -19,7 +19,4 @@ El objetivo es demostrar cómo cada tipo de NAT funciona en una red segmentada c
 - Configurar y conectar múltiples VLANs a un router (router-on-a-stick).
 - Analizar cómo se comporta la traducción de direcciones en diferentes escenarios.
 
-## 🛠️ Instalación y Uso
-1. Clonar este repositorio:
-   ```bash
-   git clone https://github.com/carlosalda/networking-nat-dynamic-static-pat-vlans.git
+
