@@ -10,7 +10,7 @@ Este laboratorio simula una pequeña red empresarial utilizando 3 VLANs conectad
 El objetivo es demostrar cómo cada tipo de NAT funciona en una red segmentada con VLANs.
 
 ## Topologia
-[image alt](https://github.com/hayligg/NAT-PAT/blob/54bd79644e96cfbf531dedbe80d9fa718358978d/Captura%20de%20pantalla%202025-04-26%20141022.png)
+
 
 ## ⚙️ Tecnologías Utilizadas
 - Cisco Packet Tracer
