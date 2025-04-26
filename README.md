@@ -11,7 +11,7 @@ El objetivo es demostrar cómo cada tipo de NAT funciona en una red segmentada c
 
 ## Topologia
 
-![image alt](
+![image alt](https://github.com/hayligg/NAT-PAT/blob/c160069e70a07f5fd37aea2485aaa39ea6dd6f66/TopologiaD.png)
 
 ## ⚙️ Tecnologías Utilizadas
 - Cisco Packet Tracer
