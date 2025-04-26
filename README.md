@@ -11,6 +11,7 @@ El objetivo es demostrar cómo cada tipo de NAT funciona en una red segmentada c
 
 ## Topologia
 
+![image alt](
 
 ## ⚙️ Tecnologías Utilizadas
 - Cisco Packet Tracer
