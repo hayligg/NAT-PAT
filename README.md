@@ -1,5 +1,5 @@
 # NAT-PAT
-# Laboratorio de NAT Estática, NAT Dinámica y PAT con VLANs
+# Proyecto de NAT Estática, NAT Dinámica y PAT con VLANs
 
 ## 🧾 Descripción
 Este laboratorio simula una pequeña red empresarial utilizando 3 VLANs conectadas a un router que implementa:
