@@ -3,6 +3,7 @@
 - **Carlos Saldaña**                                                          
 - **Correo**: [c.a.saldana20@gmail.com](mailto:c.a.sadlana20@gmail.com)
 - **LinkedIn**: [linkedin.com/in/carlos-saldana](www.linkedin.com/in/carlos-saldaña-candanedo-720426183)
+  
 ![image alt](https://github.com/hayligg/NAT-PAT/blob/7aa768f4b936a8c1718888bce163575b21ade75d/ccna(2).png)
 ## 🧾 Descripción
 Este laboratorio simula una pequeña red empresarial utilizando 3 VLANs conectadas a un router que implementa:
