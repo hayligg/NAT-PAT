@@ -8,7 +8,10 @@ Este laboratorio simula una pequeña red empresarial utilizando 3 VLANs conectad
 - NAT Dinámica (mediante un pool de direcciones públicas).
 - PAT (Port Address Translation) para compartir una sola IP pública entre múltiples dispositivos internos.
 
-El objetivo es demostrar cómo cada tipo de NAT funciona en una red segmentada con VLANs.
+## 📌 Objetivos de Aprendizaje
+- Configurar NAT estática, dinámica y PAT en un entorno simulado.
+- Configurar y conectar múltiples VLANs a un router (router-on-a-stick).
+- Analizar cómo se comporta la traducción de direcciones en diferentes escenarios.
 
 ## Topologia
 
@@ -59,9 +62,10 @@ ip nat inside source list 2 interface Gig0/1 overload
 ## Capturas
 ![image alt](https://github.com/hayligg/NAT-PAT/blob/1eafd94a04704d403313660844915257310a1ea5/NAT%20translation.PNG)
  
-## 📌 Objetivos de Aprendizaje
-- Configurar NAT estática, dinámica y PAT en un entorno simulado.
-- Configurar y conectar múltiples VLANs a un router (router-on-a-stick).
-- Analizar cómo se comporta la traducción de direcciones en diferentes escenarios.
+## 👤 Autor
+
+- **Carlos Saldaña**
+- **Correo**: [c.a.saldana20@gmail.com](mailto:c.a.sadlana20@gmail.com)
+- **LinkedIn**: [linkedin.com/in/carlos-saldana](www.linkedin.com/in/carlos-saldaña-candanedo-720426183)
 
 
