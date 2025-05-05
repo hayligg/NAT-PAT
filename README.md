@@ -1,5 +1,9 @@
 # Proyecto de NAT Estática, NAT Dinámica y PAT con VLANs
-
+## 👤 Autor
+- **Carlos Saldaña**                                                          
+- **Correo**: [c.a.saldana20@gmail.com](mailto:c.a.sadlana20@gmail.com)
+- **LinkedIn**: [linkedin.com/in/carlos-saldana](www.linkedin.com/in/carlos-saldaña-candanedo-720426183)
+- ![image alt](https://github.com/hayligg/NAT-PAT/blob/7aa768f4b936a8c1718888bce163575b21ade75d/ccna(2).png)
 ## 🧾 Descripción
 Este laboratorio simula una pequeña red empresarial utilizando 3 VLANs conectadas a un router que implementa:
 - **Segmentación con VLANs**
@@ -11,7 +15,6 @@ Este laboratorio simula una pequeña red empresarial utilizando 3 VLANs conectad
 - Configurar NAT estática, dinámica y PAT en un entorno simulado.
 - Configurar y conectar múltiples VLANs a un router (router-on-a-stick).
 - Analizar cómo se comporta la traducción de direcciones en diferentes escenarios.
-
 ## Topologia
 
 ![image alt](https://github.com/hayligg/NAT-PAT/blob/c160069e70a07f5fd37aea2485aaa39ea6dd6f66/TopologiaD.png)
@@ -61,10 +64,6 @@ ip nat inside source list 2 interface Gig0/1 overload
 ## Capturas
 ![image alt](https://github.com/hayligg/NAT-PAT/blob/1eafd94a04704d403313660844915257310a1ea5/NAT%20translation.PNG)
  
-## 👤 Autor
 
-- **Carlos Saldaña**                                                          ![image alt](https://github.com/hayligg/NAT-PAT/blob/7aa768f4b936a8c1718888bce163575b21ade75d/ccna(2).png)
-- **Correo**: [c.a.saldana20@gmail.com](mailto:c.a.sadlana20@gmail.com)
-- **LinkedIn**: [linkedin.com/in/carlos-saldana](www.linkedin.com/in/carlos-saldaña-candanedo-720426183)
 
 
