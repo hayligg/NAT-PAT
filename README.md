@@ -56,7 +56,8 @@ ip nat inside source list 1 pool NAT-DYN
 
 ! PAT
 ip nat inside source list 2 interface Gig0/1 overload
-
+## Capturas
+![image alt](https://github.com/hayligg/NAT-PAT/blob/1eafd94a04704d403313660844915257310a1ea5/NAT%20translation.PNG)
  
 ## 📌 Objetivos de Aprendizaje
 - Configurar NAT estática, dinámica y PAT en un entorno simulado.
