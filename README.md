@@ -57,6 +57,7 @@ ip nat inside source static 192.168.10.100 200.100.50.100
 
 ! NAT Dinámica
 ip nat pool NAT-DYN 200.100.50.101 200.100.50.150 netmask 255.255.255.0
+
 ip nat inside source list 1 pool NAT-DYN
 
 ! PAT
