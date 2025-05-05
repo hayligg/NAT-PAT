@@ -63,7 +63,7 @@ ip nat inside source list 2 interface Gig0/1 overload
  
 ## 👤 Autor
 
-- **Carlos Saldaña**
+- **Carlos Saldaña**                                                          ![image alt](https://github.com/hayligg/NAT-PAT/blob/7aa768f4b936a8c1718888bce163575b21ade75d/ccna(2).png)
 - **Correo**: [c.a.saldana20@gmail.com](mailto:c.a.sadlana20@gmail.com)
 - **LinkedIn**: [linkedin.com/in/carlos-saldana](www.linkedin.com/in/carlos-saldaña-candanedo-720426183)
 
